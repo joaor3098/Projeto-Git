@@ -20,5 +20,7 @@ Git Remote -v = visualizar repositório remoto
 
 Git push -u origin main = Publicar alterações no repositório remoto
 
+Git Checkout -b = criar nova branch
+
 
 
